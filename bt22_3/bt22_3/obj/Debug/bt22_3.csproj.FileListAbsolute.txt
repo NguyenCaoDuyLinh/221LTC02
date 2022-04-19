@@ -1,7 +1,0 @@
-E:\c#\bt22_3\bt22_3\bin\Debug\bt22_3.exe.config
-E:\c#\bt22_3\bt22_3\bin\Debug\bt22_3.exe
-E:\c#\bt22_3\bt22_3\bin\Debug\bt22_3.pdb
-E:\c#\bt22_3\bt22_3\obj\Debug\bt22_3.csprojAssemblyReference.cache
-E:\c#\bt22_3\bt22_3\obj\Debug\bt22_3.csproj.CoreCompileInputs.cache
-E:\c#\bt22_3\bt22_3\obj\Debug\bt22_3.exe
-E:\c#\bt22_3\bt22_3\obj\Debug\bt22_3.pdb
