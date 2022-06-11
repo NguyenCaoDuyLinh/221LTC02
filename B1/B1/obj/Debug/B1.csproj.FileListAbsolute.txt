@@ -1,0 +1,7 @@
+E:\BT\LTC#\B1\B1\obj\Debug\B1.csprojAssemblyReference.cache
+E:\BT\LTC#\B1\B1\obj\Debug\B1.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\B1\B1\bin\Debug\B1.exe.config
+E:\BT\LTC#\B1\B1\bin\Debug\B1.exe
+E:\BT\LTC#\B1\B1\bin\Debug\B1.pdb
+E:\BT\LTC#\B1\B1\obj\Debug\B1.exe
+E:\BT\LTC#\B1\B1\obj\Debug\B1.pdb

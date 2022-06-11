@@ -1,0 +1,6 @@
+E:\BT\LTC#\B1\b3\bin\Debug\b3.exe.config
+E:\BT\LTC#\B1\b3\bin\Debug\b3.exe
+E:\BT\LTC#\B1\b3\bin\Debug\b3.pdb
+E:\BT\LTC#\B1\b3\obj\Debug\b3.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\B1\b3\obj\Debug\b3.exe
+E:\BT\LTC#\B1\b3\obj\Debug\b3.pdb
